@@ -8,8 +8,10 @@ Funcionalidade:
 - Criar um comentário
 - Recuperar lista de comentário em um post
 - Apagar comentário
+
 Requisitos:
-- Deve ser feitos testes, tanto unitários quanto de integração com o banco e a api. (recomendo começar só pelos unitários)
+- Deve ser feitos testes, tanto unitários quanto de integração com o banco e a api.
+
 Bonus para fazer depois:
 - Fazer uma paginação quando recuperar uma lista de posts ou lista de comentários
 - Fazer deploy de uma versão dentro da Aws
